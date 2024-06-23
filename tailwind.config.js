@@ -13,10 +13,10 @@ export default {
         "custom-light": "0 0 10px rgba(0, 0, 0, 0.1)",
       },
       backgroundImage: {
-        'custom-image': "url('./src/assets/back.jpg')", // Adjust the path to your image
+        "custom-image": "url('/src/assets/back.jpg')", // Adjust the path to your image
       },
       backdropBlur: {
-        '30': '30px',
+        30: "30px",
       },
     },
   },
